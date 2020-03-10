@@ -31,7 +31,7 @@ public class TestUtil extends TestBase {
 //	
 	public static String TESTDATA_SHEET_PATH = "F:\\Ecilpse_Workspace\\FreeCRMTest\\src\\main\\java\\com\\crm\\qa\\testdata";
 	public static String File_Name = "FreeCRMTestData.xlsx";
-	public static String Sheet_Name = "Deals";
+	public static String Sheet_Name = "Contacts";
 
 	static Workbook book;
 	static Sheet sheet;

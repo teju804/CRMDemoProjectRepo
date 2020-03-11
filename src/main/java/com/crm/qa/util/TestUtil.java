@@ -37,6 +37,7 @@ public class TestUtil extends TestBase {
 	static Sheet sheet;
 	
 	PageLoadTimeOut=30;
+	PageLoadTimeOut=30;
 
 	
 	
